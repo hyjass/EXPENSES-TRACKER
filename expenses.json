@@ -1,0 +1,37 @@
+{
+    "1": {
+        "date": "2024/08/25",
+        "category": "protein",
+        "amount": 3000.0
+    },
+    "2": {
+        "date": "20240805",
+        "category": "food",
+        "amount": 500.0
+    },
+    "3": {
+        "date": "2024/08/04",
+        "category": "transport",
+        "amount": 500.0
+    },
+    "4": {
+        "date": "20-07-2024",
+        "category": "cloths",
+        "amount": 8000.0
+    },
+    "5": {
+        "date": "5",
+        "category": "loan",
+        "amount": 50.0
+    },
+    "6": {
+        "date": "20-06-2024",
+        "category": "cloths",
+        "amount": 5000.0
+    },
+    "7": {
+        "date": "202",
+        "category": "food",
+        "amount": 800.0
+    }
+}
